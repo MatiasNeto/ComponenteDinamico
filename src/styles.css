@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+.produto {
+    margin: 1em;
+    width: 400px;
+    height: 360px;
+}
+
+.lista-produto {
+    display: flex;
+    margin-left: 1em;
+}
